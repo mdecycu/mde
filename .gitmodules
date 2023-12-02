@@ -1,0 +1,12 @@
+[submodule "cmsimde"]
+	path = cmsimde
+	url = https://github.com/mdecycu/cmsimde.git
+[submodule "metaheuristics"]
+	path = metaheuristics
+	url = https://github.com/mdecycu/metaheuristics.git
+[submodule "pyslvs"]
+	path = pyslvs
+	url = https://github.com/mdecycu/pyslvs.git
+[submodule "Pyslvs-UI"]
+	path = Pyslvs-UI
+	url = https://github.com/mdecycu/Pyslvs-UI.git
